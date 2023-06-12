@@ -1,4 +1,4 @@
-#include "ists.h"
+#include "lists.h"
 
 /**
  * is_palindrome - Function to check if the list is palindrom

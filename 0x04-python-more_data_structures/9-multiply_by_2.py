@@ -5,4 +5,3 @@ def multiply_by_2(a_dictionary):
     for i in key:
         new[i] = a_dictionary[i] * 2
     return new
-

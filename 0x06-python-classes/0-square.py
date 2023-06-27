@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-"""define q square function"""
+"""class"""
 
 
 class Square:
-    """empty squre"""
+    """pass"""
     pass

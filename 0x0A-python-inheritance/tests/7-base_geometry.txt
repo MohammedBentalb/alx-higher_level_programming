@@ -1,0 +1,6 @@
+Using ``BaseGeometry``
+----------------------
+
+    Traceback (most recent call last):
+    	      ...
+    TypeError: name must be an integer

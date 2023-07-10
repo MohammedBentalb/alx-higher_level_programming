@@ -3,5 +3,5 @@
 
 
 def is_same_class(obj, a_class):
-    """check"""
+    """true if obj came from the exaxt class"""
     return type(obj) == a_class

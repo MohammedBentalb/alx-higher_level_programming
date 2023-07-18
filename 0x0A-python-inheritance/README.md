@@ -1,4 +1,0 @@
-#Task
-~~~~
-Python-inheritance
-~~~~
